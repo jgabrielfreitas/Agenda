@@ -24,8 +24,8 @@ apply plugin: 'me.tatarka.retrolambda'
 ...
 
 dependencies {
-		compile 'com.jgabrielfreitas:agenda:1.0.0'
-	}
+	compile 'com.jgabrielfreitas:agenda:1.0.0'
+}
 ```
 
 ###License
