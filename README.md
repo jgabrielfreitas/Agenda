@@ -28,6 +28,11 @@ dependencies {
 }
 ```
 
+#### Deploy`
+``` terminal
+$ chmod +x gradlew
+$ ./gradlew bintrayUpload
+```
 ###License
 ```
 MIT License
