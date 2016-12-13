@@ -12,8 +12,8 @@ allprojects {
     }
 
     repositories {
-	...
-	maven { url  "http://dl.bintray.com/jgabrielfreitas/maven" }
+		...
+		maven { url  "http://dl.bintray.com/jgabrielfreitas/maven" }
     }
 }
 ```
