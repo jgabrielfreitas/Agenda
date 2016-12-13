@@ -28,7 +28,7 @@ dependencies {
 }
 ```
 
-#### Deploy`
+#### Deploy
 ``` terminal
 $ chmod +x gradlew
 $ ./gradlew bintrayUpload
