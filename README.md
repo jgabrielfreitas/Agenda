@@ -11,11 +11,11 @@ allprojects {
         classpath 'me.tatarka:gradle-retrolambda:3.1.0'
     }
 
-		repositories {
-			...
-			maven { url  "http://dl.bintray.com/jgabrielfreitas/maven" }
-		}
-	}
+    repositories {
+	...
+	maven { url  "http://dl.bintray.com/jgabrielfreitas/maven" }
+    }
+}
 ```
 
 **Step 2.** Add the dependency
